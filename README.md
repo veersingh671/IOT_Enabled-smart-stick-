@@ -1,6 +1,5 @@
-# IOT_Enabled-smart-stick-
 
-ESP32 GPS + Ultrasonic Alert System (Telegram)
+# ESP32 GPS + Ultrasonic Alert System (Telegram)
 
  Overview
 This project is a real-time IoT-based alert system built using the ESP32, NEO-6M GPS module, and an ultrasonic sensor.
